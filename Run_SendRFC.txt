@@ -1,0 +1,1 @@
+java -classpath "C:\Users\Admin\IdeaProjects\testJCO\libs\sqljdbc4.jar;C:\sapjco3\sapjco3.jar;C:\Users\Admin\IdeaProjects\testJCO\out\production\sendrfc-TIH" -Djava.library.path="C:\Users\Admin\IdeaProjects\testJCO\libs;C:\sapjco3" com.tih.SendRFC /H/sr.icms.it/H/213.174.164.43/W/V3n3tr0n1cPWD!/H/10.19.11.11 00 100 rfcav ATEX2014 it 262 1
